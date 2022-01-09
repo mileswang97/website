@@ -15,3 +15,5 @@ projects that I want to be able to display later:
 3. Senior Thesis (continuation)
 4. food planning
 5. drone project
+6. nandgame
+
